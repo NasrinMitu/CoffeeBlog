@@ -1,0 +1,38 @@
+*{
+    text-decoration: none;
+    margin: 0;
+    
+}
+
+.navbar{
+    background: white;
+    padding-left: 15px;
+    padding-right: 15px;
+    font-family: calibri;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+
+.logo img{
+    height: 100px;
+    width: 100px;
+}
+
+ul li{
+    list-style: none;
+    display: inline-block;
+    margin: 25px;
+    font-size: 26px;
+    font-weight: bold;
+
+
+}
+
+.lists{
+    color: black;
+}
+
+
+
